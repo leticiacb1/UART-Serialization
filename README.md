@@ -30,7 +30,7 @@ O padrão inicial de configuração do fram UART é definido a seguir:
   
 <h4> 📍️ Montagem </h4>
 
-
+Para a montagem do projeto é necessário 2 Arduinos , jumpers e 2 cabos AM/BM 2.0
 
 
 
