@@ -27,7 +27,13 @@ O padrão inicial de configuração do fram UART é definido a seguir:
 - 1 **STOP** bit
   
 - Baudrate de **9600 bits/s** 
-  
+
+<br/>
+
+<div align="center">
+  <img alt="frame" src="Assets/frame.png"/>
+</div>
+
 ---
 
 <h4> 📍️ Montagem </h4>
