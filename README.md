@@ -55,9 +55,13 @@ Para a montagem do projeto é necessário possuir:
 - Arduino IDE , caso nao possua, pode baixar nesse [link](https://docs.arduino.cc/software/ide-v2/tutorials/getting-started/ide-v2-downloading-and-installing).
 
 <br/>
+  
+---
 
 <h4> 💻️ Funcionamento do código </h4>
 
+---
+  
 Tendo realizada a montagem, realize ocarregamento do código em ambos os arduinos. 
 <br/>
 
