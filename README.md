@@ -10,6 +10,10 @@ Para um exmeplo prático do funcionamento imagine que deseja enviar o caracter "
 
 <div>
 
+<div align="center">
+  <img alt="montagem" src="Assets/UARTSerial.jpeg" height="440px"/>
+</div>
+  
 <br/>
 
 ---
